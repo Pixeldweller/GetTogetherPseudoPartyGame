@@ -1,0 +1,160 @@
+start#Greetings! I am the robotic depressed and underpayed narrator to this mess of a story, so just chill. Don't ask.
+
+start#You know, wage is low and I ain't no messing around with fancy vocaloids, too fucking expensive.
+
+start#So listen, I am your game host this evening and I welcome you to a new round of the fresh indie pseudo party game: Get Together!
+
+start#Please select  a suitable game for your group by moving your player characters over the game buttons or let them be selected by your host!
+
+start#And don't forget, the more the merrier!
+
+greet#Welcome, @player.
+
+greet#Nice to meet you @player.
+
+greet#@player joined the party. 
+
+greet#@player, is that right? Oh I'm sorry. That is a weird name.
+
+greet#I am pleased to introduce @player to you!
+
+gamestart#Our first game is called @gamename.
+
+gamestart#Next up, @gamename
+
+gamestart#Get together for our next game. @gamename!
+
+gamestart#Well, this sounds promising.. @gamename!
+
+gamestart#You have choosen @gamename! What a bummer..
+
+gamestart#Free the stage for the upcoming game @gamename
+
+disclaimer#Disclaimer: These games are not balanced at all... This means that have not tested if these games work out at all... so congrats you are officially alpha testers now. (clap clap)
+
+disclaimer#If this game goes down the shitter then we will swap to JackBoxParty, don't worry.
+
+fastwin#Wow. that was a fast round.. I am speechless.
+
+fastwin#Too fast, too furious. @player takes it all!
+
+fastwin#Wat. ..uh I mean, Wat. Props to you, @player
+
+win#@player wins.
+
+win#@player is our new Champion!
+
+win#@player dominates all.
+
+win#@player is cheating, I'm pretty sure.
+
+win#Nice work @player
+
+time#You only have 10 seconds left!
+
+nowin#Oops, nobody wins! Better luck next time..
+
+nowin#That's it, nobody won, what a shame.
+
+nowin#ime's up, too bad nobody took the chance.
+
+nowin#Your time is over. Time to try again, I guess.
+
+nowin#What a shame, I guess that means that I have won. 
+
+nowin#Humans 0. Time 1. Pathetic
+
+banter#What an arrogant ego @player has, I shall keep an eye on you!
+
+banter#@player makes me a little bit jealous..
+
+banter#Alright, I don't like you, @player. At all. I shall call you Bobby now. You like that, ..Bobby?rename:Bobby
+
+banter#@player wins again. This name is getting repeated way too often. May be we should call you Heartless Monster instead! That's sounds way more appropiate!rename:Heartless Monster
+
+banter#That's it @player I knew, that it wasn't your real name. I shall better call you The Legend 27!rename:The Legend 27
+
+banter#All hail Senpai @player. Please, notice me.rename:Senpai @player
+
+disconnect#Have you seen @player? I think he got lost. (cries in spanish)
+
+disconnect#@player could not handle it anymore and ended his life. What a sad story.
+
+disconnect#I think we lost a player...
+
+disconnect#Farewell, @player
+
+reconnect#@player returned from the dead!
+
+reconnect#@player found the way back into our Dimension!
+
+reconnect#Welcome back, @player
+
+info#@player leads. I am pretty sure that won't last long.
+
+info#This Player has won @winCount games. What a jerk.
+
+info#You have won @winCount games @player. I guess you should be proud now.
+
+info#@player is leading the match with @winCount wins.
+
+info#@player0 and @player1 share the same ammount of wins. What a mess.
+
+info#@player, time to score some points! You only have @winCount wins. 
+
+info#@player1 you only need @winDiff wins to get to @player0, you are our only hope..
+
+info#I feel very sorry for @playerX. You have the least wins.
+
+banter#@player, I think you have lost something. I think it was your dignity.
+
+highwin#Roses are red, Haraambe is in heaven, you got beaten by @player
+
+greet#A new contester entered the Arena, @player!
+
+greet#@player has joined our group.
+
+win#The round is over, @player won the game.
+
+win# @player 1. The Rest 0. That was a sad game
+
+win#What was it called when you did not achieve anything important in your life again? Ah, I guess it was called winning..
+
+win#And you won!  Congrats, @player
+
+win#Wait. How did that happen? Seems like @player has won.
+
+gamebanter#Well I don't think that anyone will win with that playstyle...
+
+gamebanter#Are you even trying to play the game @player?
+
+gamebanter#I guess you like giving your opponents free wins.
+
+gamebanter#And there goes @player, I do not feel any pitty for that poor soul anyway.
+
+banter#What do you want, mortal?
+
+banter#You are annoying me... I should call you Trash talker @player from now on! rename:Trash talker @player
+
+banter#What is love? @player don't hurt me. Don't hurt me. NO MORE!
+
+banter#If I would get a bitcoin for every dumb banter request you have made, I could even afford  a nice vocaloid library. (sigh)
+
+banter#What is black and hides in rotten pieces of flesh? I think it is your soul @player.
+
+banter#What is the square root of PI divided by zero? Definetly @player's I Q.
+
+banter#If you add the ending 'ler' to any name, you can make things much more interesting or simply worse. Am I right @playerler?rename: @playerler
+
+banter#Sorry, I have run out of new ideas for banter. Just like your mother did when thinking of your real life name, @player.
+
+banter#What do you call a annoying player? A jerk, obviously. rename:Jerk
+
+banter#What is @colorplayer, small and has not won any game yet? Ah right, that is you @player. 
+
+banter#Have you even considered selecting an actual mini game, @player, instead of annoying me?
+
+banter#That's it. Please leave me alone.
+
+banter#Being a Text-To-Speech-Bot everyday is not funny at all. 
+

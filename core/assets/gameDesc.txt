@@ -1,0 +1,13 @@
+Weird Pong#Just as you might know...; Pong is a traditional 2D retro game based on moving paddles to basically hit a ball back and forth; You will be split into two teams and you compete against each other!; Other than in the original game, you will have to share the pitch with your teammates; and you will have to pay attention to new pick ups, that can upgrade your paddle or make things just worse...;...and they might eventually  kill you..; ..and..; you can even sabotage your teammates if you want a solo win! Good luck!
+
+Weird PongExtra#Oh, seems like we have an uneven ammount of players...;@player, I asign you a special role...;Your special task is to kill an entire team on either side; ...by converting the balls into a deathly ones by touching them with your paddle!;If one team dies, you automatically win, alone. Get Ready......; GO!
+
+start#Greetings! I am the robotic depressed and underpayed narrator to this mess of a story, so just chill. Don't ask.
+
+start#You know, wage is low and I ain't no messing around with fancy vocaloids, too fucking expensive.
+
+start#So listen, I am your game host this evening and I welcome you to a new round of the fresh indie pseudo party game: Get Together!
+
+start#Please select  a suitable game for your group by moving your player characters over the game buttons or let them be selected by your host!
+
+start#And don't forget, the more the merrier!
